@@ -16,7 +16,7 @@ Agile ---> NO metodología o proceso.
 *Simplicidad, solo los artefactos necesarios. 
 *Motivación, compromiso y responsabilidad por la autogestión/auto-organización.
 
-#Algunos procesos ágiles...
+# Algunos procesos ágiles...
 -Programación extrema. 
 -Desarrollo Rápido de Aplicaciones (RAD). 
 -Desarollo del prototipo. 

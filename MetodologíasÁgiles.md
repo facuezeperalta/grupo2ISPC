@@ -1,6 +1,6 @@
 # METODOLOGÍAS ÁGILES
 Agile ---> NO metodología o proceso. 
-"Es una ideología con principiuos definidos para guiar al desarrollo de un producto, basado en la ADAPTACIÓN CONTINUA - no hay "productos finales", sino PRODUCTOS EN CONSTANTE EVOLUCIÓN Y MEJORA."
+"Es una ideología con principios definidos para guiar al desarrollo de un producto, basado en la ADAPTACIÓN CONTINUA - no hay "productos finales", sino PRODUCTOS EN CONSTANTE EVOLUCIÓN Y MEJORA."
 
 # Valores:
 *Valorar los INDIVIDUOS por encima de los procesos. 

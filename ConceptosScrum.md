@@ -34,4 +34,4 @@ Durante:
 
 *El alcance puede clasificarse y renegociarse entre el Propietario del Producto (Product Owner) y el Equipo de Desarollo a medida que se va aprendiendo más. 
 
-PRODUCT BACKLOG --> SPRINT BACKLOG |PLANNING - RETROSPECTIVE (Implementation, Daily Meeting, Review) - RESTART (Planning, Retrospective) | --> PRODUCT INCREMENT
+    PRODUCT BACKLOG --> SPRINT BACKLOG |PLANNING - RETROSPECTIVE (Implementation, Daily Meeting, Review) - RESTART (Planning, Retrospective) | --> PRODUCT INCREMENT

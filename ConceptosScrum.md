@@ -35,3 +35,10 @@ Durante:
 *El alcance puede clasificarse y renegociarse entre el Propietario del Producto (Product Owner) y el Equipo de Desarollo a medida que se va aprendiendo más. 
 
     PRODUCT BACKLOG --> SPRINT BACKLOG |PLANNING - RETROSPECTIVE (Implementation, Daily Meeting, Review) - RESTART (Planning, Retrospective) | --> PRODUCT INCREMENT
+
+# ROLES
+* PRODUCT OWNER. Responsable de definir y priorizar temas y objetivos con criterios de aceptación: QUÉ.
+
+* SCRUM TEAM (Equipo). Desarolladores, identifican y acen el CÓMO. 
+
+* SCRUM MASTER (Facilitador). Uno de los integrantes del grupo (NO líoder, el facilitador ayuda a pensar a todos juntos para obtener un resultado mejor).

@@ -1,4 +1,4 @@
-# DEFINICIONES
+# DEFINICIONES:
 * "Disciplina que analiza los problemas éticos creados, transformados o agravados por la tecnología de la información"
 * "Análisis de la naturaleza e impacto social de la tecnología informática, con su correspondiente formulación y justificación de políticas para un uso ético de la misma"
 * "Disciplina que identifica y analiza impactos de las tecnologías de la información en los valores humanos y sociales: salud, riqueza, trabajo, libertad, democracia, conocimiento, privacidad, seguridad y autorrealización personal"

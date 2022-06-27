@@ -46,3 +46,34 @@ Se hace mediante un esquema conceptual, con entidades, atributos, relaciones, op
 *Es la base de todos los demás, el primer paso. 
 
 - Lo realizan DISEÑADORES o ANALISTAS. 
+
+# TIPOS DE SGBD
+
+Hay modelos conceptuales diferentes según el SGBD a utilizar.
+
+     Mundo real -----> Esquema Conceptual -----> Esquema Lógico -----> Esquema Interno -----------> Base de Datos física
+                        Modelo conceptual           Modelo Lógico         Modelo Interno
+                        Válido para cualquier BD    Depende del SGBD      Depende del SGBD particular
+     
+     *la diferencia entre SGBD reside en que proporcionan diferentes modelos lógicos.
+                       
+### MODELO LÓGICO VS MODELO CONCEPTUAL
+El Lógico depende del SGBD particular. El Conceptual es independiente del SGBD que se utilice. 
+
+El Lógico es el más cercano al modelo físico. El Conceptual es el más cercano al usuario. 
+
+El Lógico es el encargado de establecer el paso entre el Conceptual y el Físico. 
+
+Ejemplos del ML: 
+
+- Modelo relacional. 
+- Modelo Codasyl. 
+- Modelo Jerárquico.
+
+Ejemplos del MC: 
+- Modelo entidad relación. 
+- Modelo RM/T. 
+- Modelo UML. 
+
+## MODELO JERÁRQUICO (o del árbol)
+-Utilizado por los primeros SGBD. 

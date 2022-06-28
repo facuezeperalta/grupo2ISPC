@@ -76,4 +76,52 @@ Ejemplos del MC:
 - Modelo UML. 
 
 ## MODELO JERÁRQUICO (o del árbol)
--Utilizado por los primeros SGBD. 
+-Utilizado por los primeros SGBD.
+
+*Este esquema está en completo desuso, ya que no es válido para modelar la mayoría de los problemas de la BD.
+
+La información se organiza con una jerarquía con relacioens entre entidades de tipo padre-hijo. Hay una serie de nodos que contendrán atributos y se relacionarán con nodos hijos, por lo que puede haber más de un hijo para el mismo padre, pero un hijo solo tiene un padre. 
+
+* Los datos se almacenan en segmentos, relacionacionados entre sí con arcos. 
+* La forma visual es un árbol invertido: superior-padres, inferior-hijos. 
+
+## MODELO EN RED (CODASYL)
+- BD DE PRIMERA GENERACIÓN. 
+
+*Gran aceptación, aunque apenas se utiliza actualmente.
+
+Organiza la información en registros (nodos) y enlaces. Los registros almacenan datos, y los enlaces permiten relacionar esos datos. Se puede representar cualquier tipo de relación entre los datos, pero hace muy complicado su manejo. 
+
+* Son parecidas a las jerárquicas, soolo que en ellas puede haber más de un padre. 
+
+## MODELO RELACIONAL (MR)
+- BD DE SEGUNDA GENERACIÓN. 
+- Más popular. 
+
+Datos organizados en tablas cuyos datos se relacionan. 
+
+## MODELO DE BD ORIENTADA A OBJETOS (POO u OOP) 
+- BD DE TERCERA GENERACIÓN. 
+- El futuro parece estar a favor de estas BD. 
+
+La programación orientada a objetos permite cohesionar datos y procedimientos, haciendo que se diseñen estructuras que poseen datos (atributos) con procedimientos (operaciones) que pueden realizar con los datos. En las BD orientadas a objetos es la misma ieda. 
+
+- Su modelo concpetual se suele diseñar en UML, y el lógico en ODMG (Object Data Management Group). 
+- Se intenta arreglar limitaciones de las BD relacionales, pero sigue sin reemplazarlas. 
+
+## BD OBJETO-RELACIONALES. 
+- Híbridas entre el MR y el POO. 
+
+Se busca la compatibilidad relacional para integrar mejoras de la orientación a objetos. Se basan en el estándard SQL 99, añadiendo a las BD la posibilidad de almacenar procedimientos de usuario, triggers, tipos definidos por el usuario, consultas recursivas, BD OLAP, tipos LOB,...
+
+*Problema: Requieren reinvertir capital y esfuerzos de nuevo para convertir las BD relacionales en BD orientadas a objetos. 
+
+- Las últimas versiones de la mayoría de las clásicas grandes BD relacionales (Oracle, SQL, Server, Informix,...) son objeto-relacionales. 
+
+## BD NoSQL
+- De estructuras diversas. 
+
+Priorizan el acceso rápido a la información por sobre su integridad. Están pensadas para grabar datos de manera veloz para atender millones de peticiones.La idea es que los datos apenas necesiten validarse y relacionarse, lo importante esla disponibilidad de la propia BD. 
+
+- Modelo de grandes servicios de Internet (Twitter, Facebook, Amazon, etc.) 
+- Rompe con el lenguaje SQL para poder manipular los datos con otros lenguajes (mongoBD, Azure Cosmos DB, Arango DB, Google Cloud Firestore, redis, Amazon DynamoDB, etc.) 

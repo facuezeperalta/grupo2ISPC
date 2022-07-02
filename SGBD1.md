@@ -125,3 +125,14 @@ Priorizan el acceso rápido a la información por sobre su integridad. Están pe
 
 - Modelo de grandes servicios de Internet (Twitter, Facebook, Amazon, etc.) 
 - Rompe con el lenguaje SQL para poder manipular los datos con otros lenguajes (mongoBD, Azure Cosmos DB, Arango DB, Google Cloud Firestore, redis, Amazon DynamoDB, etc.) 
+
+## ¿SQL o NoSQL? 
+### SQL: 
+* El volumen de los datos no crece/crece poco. 
+* Las necesidades de proceso se pueden asumir en un solo servidor. 
+* No tenemos picos de uso del sistema por parte de los usuarios más allá de los previstos. 
+
+### NoSQL 
+* El volumen de los datos crece muy rápidamente en momentos puntuales. 
+* Las necesidades de proceso no se pueden preveer. 
+* Tenemos picos de uso del sistema por parte de los usuarios en múltiples ocasiones.

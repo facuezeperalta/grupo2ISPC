@@ -35,7 +35,6 @@ constraint fk_fp1 foreign key (Perro) references Perro (ID_Perro)
 
 
 
-
 /* 2. Inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.*/
 
 INSERT INTO dueno VALUES (28957346, 'Carina', 'Payleman', 354128720, 'Calle Mitre 106');
@@ -43,6 +42,7 @@ INSERT INTO perro VALUES (13, 'Puppy', '2012-12-13', 'Macho', 28957346);
 
 SELECT * FROM dueno;
 SELECT * FROM perro;
+
 
 /*9. Escriba una consulta que permita actualizar la dirección de un dueño. Su nueva dirección es Libertad 123*/
 SELECT * FROM dueno; 

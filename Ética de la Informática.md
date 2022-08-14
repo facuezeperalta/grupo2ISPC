@@ -45,3 +45,6 @@ Referentes a valores internos a los sistemas (ej. cómo gestionar los riesgos pa
 
 ## 5. MIEDOS Y AMENAZAS DE LA INFORMACIÓN Y DIMENSIONES SOCIALES DE LA INFORMÁTICA. 
 Concientización a los informáticos de la eticidad de desarrollar tecnología militar, modos "superinteligentes" para idear sufrimiento y destrucción humana y alimentar mercados militares en países de desarrollo por parte de los que poseen tecnología (agravado por la poca diversidad cultural de los sistemas y medios de información y comunicación).
+
+La Imporancia de  la Etica Informatica
+es considerarla como la disciplina que analiza problemas éticos que son creados por la tecnología de los ordenadores o también los que son transformados o agravados por la misma, es decir, por las personas que utilizan los avances de las tecnologías de la informática.
